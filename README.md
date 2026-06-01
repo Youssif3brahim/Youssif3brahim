@@ -1,4 +1,8 @@
 <p align="center">
+  <h2>Hola, Amigos! 💀</h2>
+</p>
+
+<p align="center">
   <img src="banner.png" width="100%">
 </p>
 
