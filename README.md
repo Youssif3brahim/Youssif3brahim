@@ -1,51 +1,74 @@
+<p align="center">
+  <img src="banner.png" width="100%">
+</p>
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Youssif+Ebrahim;Penetration+Tester;Cybersecurity+Researcher;Red+Team+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Youssif+Ebrahim;Penetration+Tester;Red+Team+Enthusiast;Cybersecurity+Researcher;Always+Learning+Always+Hacking" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Penetration%20Tester-00FF41?style=for-the-badge&logo=hackthebox&logoColor=black">
-  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=kalilinux&logoColor=00FF41">
-  <img src="https://img.shields.io/badge/Red%20Team-FF0000?style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge">
 </p>
 
 ---
 
-# 👨‍💻 Who Am I?
+# 💀 Terminal Access
 
 ```bash
-root@github:~# whoami
+┌──(youssif㉿kali)-[~]
+└─$ whoami
 
 Name        : Youssif Ebrahim
 Role        : Penetration Tester
-Focus       : Web Security | Network Security
-OS          : Kali Linux
-Status      : Learning. Hacking. Improving.
+Location    : Egypt
+Focus       : Offensive Security
+Status      : Learning • Practicing • Improving
 ```
 
 ---
 
-# ⚡ Skills
+# 🚀 About Me
+
+```bash
+root@github:~# cat about.txt
+
+> Penetration Tester
+> Cybersecurity Enthusiast
+> Red Team Learner
+> Network Security Explorer
+> Web Application Security
+```
+
+---
+
+# ⚔️ Skills
 
 ```yaml
-Penetration Testing:
-  - Web Application Security
-  - Network Security Assessment
+Offensive Security:
+  - Penetration Testing
   - Vulnerability Assessment
+  - Web Security Testing
+  - Network Security
   - Privilege Escalation
-  - Active Directory Basics
 
 Programming:
   - Python
   - Bash
   - Java
 
+Operating Systems:
+  - Kali Linux
+  - Windows
+
 Tools:
-  - Burp Suite
   - Nmap
-  - Metasploit
+  - Burp Suite
   - Wireshark
-  - Nessus
+  - Metasploit
   - Gobuster
+  - Hydra
+  - Nessus
+  - Netcat
 ```
 
 ---
@@ -58,42 +81,95 @@ Tools:
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark"/>
-</p>
-
----
-
 # 🎯 Current Objectives
 
-- 🔴 Advance Red Teaming Skills
-- 🔴 Web Application Exploitation
-- 🔴 Active Directory Security
-- 🔴 Malware Analysis
-- 🔴 Cloud Security
-
----
-
-# ☠️ Terminal
-
 ```bash
-while(true){
-    Learn();
-    Practice();
-    Exploit();
-    Repeat();
-}
+[+] Advance Red Teaming Skills
+[+] Active Directory Security
+[+] Web Application Exploitation
+[+] Malware Analysis Fundamentals
+[+] Cloud Security
+[+] Bug Bounty Hunting
 ```
 
 ---
 
-# 🌐 Connect
+# 📈 GitHub Statistics
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+</p>
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme)](YOUR_THM)
+---
 
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](YOUR_HTB)
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=chartreuse-dark&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=matrix&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+# 🧠 Learning Path
+
+```text
+Computer Network Fundamentals      ██████████ 100%
+Network Security                   █████████░ 90%
+Ethical Hacking                    ████████░░ 80%
+Red Teaming                        ██████░░░░ 60%
+Active Directory                   █████░░░░░ 50%
+Cloud Security                     ███░░░░░░░ 30%
+```
+
+---
+
+# ☠️ Mission Loop
+
+```python
+while True:
+    Learn()
+    Practice()
+    Exploit()
+    Document()
+    Repeat()
+```
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="YOUR_TRYHACKME">
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme">
+</a>
+
+<a href="YOUR_HTB">
+<img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black">
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+```bash
+root@github:~# echo "Hack The Planet"
+Hack The Planet
+```
+
+</div>
