@@ -1,83 +1,70 @@
 <p align="center">
-  <h2>Hola, Amigos! 💀</h2>
-</p>
-
-<p align="center">
   <img src="banner.png" width="100%">
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Youssif+Ebrahim;Penetration+Tester;Red+Team+Enthusiast;Cybersecurity+Researcher;Always+Learning+Always+Hacking" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=900&lines=Youssif+Ebrahim;Penetration+Tester;Red+Team+Enthusiast;Cybersecurity+Researcher;Always+Learning+Always+Hacking;Hola,+Amigos!+%F0%9F%92%80" />
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge">
+  <i style="color:#00ff41;">“Access Granted... Welcome to the Shadow Layer”</i>
 </p>
 
 ---
 
-# 💀 Terminal Access
+## 🧬 SYSTEM STATUS
 
 ```bash
-┌──(youssif㉿kali)-[~]
-└─$ whoami
+┌──(root㉿github)-[~/identity]
+└─$ initialize_profile
 
-Name        : Youssif Ebrahim
-Role        : Penetration Tester
-Location    : Egypt
-Focus       : Offensive Security
-Status      : Learning • Practicing • Improving
+[+] USER        : Youssif Ebrahim
+[+] ROLE        : Penetration Tester
+[+] DOMAIN      : Cybersecurity / Red Team
+[+] LOCATION    : Egypt
+[+] STATUS      : ACTIVE ⚡
 ```
 
 ---
 
-# 🚀 About Me
+## 🧠 ABOUT ME
 
 ```bash
-root@github:~# cat about.txt
+cat /dev/mind
 
-> Penetration Tester
-> Cybersecurity Enthusiast
-> Red Team Learner
-> Network Security Explorer
-> Web Application Security
+> Offensive Security Practitioner
+> Web & Network Exploitation
+> Red Team Operations Learner
+> Always breaking to understand systems
 ```
 
 ---
 
-# ⚔️ Skills
+## ⚔️ SKILLS MATRIX
 
 ```yaml
 Offensive Security:
-  - Penetration Testing
-  - Vulnerability Assessment
-  - Web Security Testing
-  - Network Security
+  - Web App Pentesting
+  - Network Exploitation
   - Privilege Escalation
-
-Programming:
-  - Python
-  - Bash
-  - Java
-
-Operating Systems:
-  - Kali Linux
-  - Windows
+  - Recon & Enumeration
 
 Tools:
-  - Nmap
   - Burp Suite
-  - Wireshark
+  - Nmap
   - Metasploit
+  - Wireshark
   - Gobuster
   - Hydra
-  - Nessus
-  - Netcat
+
+Languages:
+  - Python
+  - Bash
 ```
 
 ---
 
-# 🛠 Arsenal
+## 🛠 ARSENAL
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,vscode" />
@@ -85,20 +72,7 @@ Tools:
 
 ---
 
-# 🎯 Current Objectives
-
-```bash
-[+] Advance Red Teaming Skills
-[+] Active Directory Security
-[+] Web Application Exploitation
-[+] Malware Analysis Fundamentals
-[+] Cloud Security
-[+] Bug Bounty Hunting
-```
-
----
-
-# 📈 GitHub Statistics
+## 📊 GITHUB MATRIX
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
@@ -107,7 +81,7 @@ Tools:
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 STREAK PROTOCOL
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=chartreuse-dark&hide_border=true"/>
@@ -115,7 +89,7 @@ Tools:
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 ACHIEVEMENT LOG
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=matrix&no-frame=true&row=1&column=7"/>
@@ -123,57 +97,44 @@ Tools:
 
 ---
 
-# 🧠 Learning Path
-
-```text
-Computer Network Fundamentals      ██████████ 100%
-Network Security                   █████████░ 90%
-Ethical Hacking                    ████████░░ 80%
-Red Teaming                        ██████░░░░ 60%
-Active Directory                   █████░░░░░ 50%
-Cloud Security                     ███░░░░░░░ 30%
-```
-
----
-
-# ☠️ Mission Loop
-
-```python
-while True:
-    Learn()
-    Practice()
-    Exploit()
-    Document()
-    Repeat()
-```
-
----
-
-# 🌐 Connect With Me
+## 📡 CONNECTION PORTS
 
 <p align="center">
 
 <a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-00ff41?style=for-the-badge&logo=linkedin&logoColor=black">
 </a>
 
 <a href="YOUR_TRYHACKME">
-<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme">
+  <img src="https://img.shields.io/badge/TryHackMe-0f0f0f?style=for-the-badge&logo=tryhackme">
 </a>
 
 <a href="YOUR_HTB">
-<img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black">
+  <img src="https://img.shields.io/badge/HackTheBox-000000?style=for-the-badge&logo=hackthebox&logoColor=00ff41">
 </a>
 
 </p>
 
 ---
 
+## ☠️ CORE LOOP
+
+```python
+while True:
+    recon()
+    exploit()
+    escalate()
+    learn()
+```
+
+---
+
 <div align="center">
 
 ```bash
-root@github:~# echo "Hack The Planet"
-Hack The Planet
+> SYSTEM MESSAGE:
+Access Level → PENTESTER
+Status → MONITORING GLOBAL NETWORKS
 ```
 
 </div>
